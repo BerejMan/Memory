@@ -1,0 +1,22 @@
+1. WallNow
+2. MusicOn
+3. SoundOn
+4 - 13. Achievements (9)
+14 - 26. Inventory (12)
+Items ID:
+0 - empty
+1 - piece of picture 1
+2 - piece of picture 2
+3 - piece of picture 3
+4 - piece of picture 4
+B - Black Cube
+W - White Cube
+D - Door Key
+K - Nightstand's key (ключ для тумбочки)
+A - Axe
+V - Wood (Дрова)
+P - Plate (пластинка для проигрывателя)
+M - Matches
+G - Graph's key
+
+Total: 24
